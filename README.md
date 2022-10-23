@@ -13,9 +13,15 @@
 1. Inserted Table of Contents.
 2. Added the Introduction.
 3. Created Fritzing Diagrams.
-4. Drew the System Connections Diagram.
+4. Updated the System Connections Diagram.
 5. Added user Functionality.
 6. Explained Database choice.
 7. Formatted the documentation.
 
 ### Sergejs Zapivalovs
+1. Drew the System Connections Diagram.
+2. Added "Data Gathered"
+3. Added "Data Processing"
+4. Created user andmin UI
+5. Added Personas
+6. Explaiend how the hardware will be connected to the internet
