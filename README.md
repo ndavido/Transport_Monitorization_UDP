@@ -17,6 +17,7 @@
 5. Added user Functionality.
 6. Explained Database choice.
 7. Formatted the documentation.
+8. Added User/Application Testing section.
 
 ### Sergejs Zapivalovs
 1. Drew the System Connections Diagram.
