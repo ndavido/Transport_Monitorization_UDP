@@ -26,3 +26,4 @@
 4. Created user andmin UI
 5. Added Personas
 6. Explaiend how the hardware will be connected to the internet
+7. Updated User/Application Testing section.
