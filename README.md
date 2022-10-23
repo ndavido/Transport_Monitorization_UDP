@@ -6,3 +6,9 @@
 Added hardware section to document,
 Added Data Storage section to document,
 Added Security section to document
+
+
+### Dawid Nalepa
+
+
+### Sergejs Zapivalovs
