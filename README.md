@@ -3,9 +3,9 @@
 ## Doccumentation Commits
 
 ### Liam Harmon
-Added hardware section to document,
-Added Data Storage section to document,
-Added Security section to document
+1. Added hardware section to document,
+2. Added Data Storage section to document,
+3. Added Security section to document
 
 
 ### Dawid Nalepa
